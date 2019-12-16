@@ -1,0 +1,20 @@
+.container-fluid{
+
+	height:86vh;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navig{
+
+	background: black;
+    height:7vh;
+    color: rgb(154, 245, 94);
+}
+
+.inst{
+    color: white;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
